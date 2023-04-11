@@ -1,0 +1,15 @@
+Z:\Programacion4to\Tp02Bis\obj\Debug\net7.0\Tp02Bis.csproj.AssemblyReference.cache
+Z:\Programacion4to\Tp02Bis\obj\Debug\net7.0\Tp02Bis.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programacion4to\Tp02Bis\obj\Debug\net7.0\Tp02Bis.AssemblyInfoInputs.cache
+Z:\Programacion4to\Tp02Bis\obj\Debug\net7.0\Tp02Bis.AssemblyInfo.cs
+Z:\Programacion4to\Tp02Bis\obj\Debug\net7.0\Tp02Bis.csproj.CoreCompileInputs.cache
+Z:\Programacion4to\Tp02Bis\bin\Debug\net7.0\Tp02Bis.exe
+Z:\Programacion4to\Tp02Bis\bin\Debug\net7.0\Tp02Bis.deps.json
+Z:\Programacion4to\Tp02Bis\bin\Debug\net7.0\Tp02Bis.runtimeconfig.json
+Z:\Programacion4to\Tp02Bis\bin\Debug\net7.0\Tp02Bis.dll
+Z:\Programacion4to\Tp02Bis\bin\Debug\net7.0\Tp02Bis.pdb
+Z:\Programacion4to\Tp02Bis\obj\Debug\net7.0\Tp02Bis.dll
+Z:\Programacion4to\Tp02Bis\obj\Debug\net7.0\refint\Tp02Bis.dll
+Z:\Programacion4to\Tp02Bis\obj\Debug\net7.0\Tp02Bis.pdb
+Z:\Programacion4to\Tp02Bis\obj\Debug\net7.0\Tp02Bis.genruntimeconfig.cache
+Z:\Programacion4to\Tp02Bis\obj\Debug\net7.0\ref\Tp02Bis.dll
